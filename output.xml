@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.10.11 on win32)" generated="20230927 14:09:11.017" rpa="false" schemaversion="4">
+<suite id="s1" name="TC#2" source="C:\Users\kavit\pythonProject\example1\Testcase12\TC#2.robot">
+<test id="s1-t1" name="LoginTest" line="7">
+<kw name="open browser https://www.saucedemo.com/ Edge">
+<msg timestamp="20230927 14:09:11.195" level="FAIL">No keyword with name 'open browser https://www.saucedemo.com/ Edge' found.</msg>
+<status status="FAIL" starttime="20230927 14:09:11.195" endtime="20230927 14:09:11.195"/>
+</kw>
+<status status="FAIL" starttime="20230927 14:09:11.192" endtime="20230927 14:09:11.196">No keyword with name 'open browser https://www.saucedemo.com/ Edge' found.</status>
+</test>
+<status status="FAIL" starttime="20230927 14:09:11.017" endtime="20230927 14:09:11.197"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="TC#2">TC#2</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20230927 14:09:11.013" level="ERROR">Error in file 'C:\Users\kavit\pythonProject\example1\Testcase12\TC#2.robot' on line 4: Non-existing setting ' *** Variables ***'.</msg>
+</errors>
+</robot>
